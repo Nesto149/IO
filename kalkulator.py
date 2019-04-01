@@ -2,5 +2,4 @@ print("to jest prosty kalkulator")
 def dodaj():
 	a = int(input())
 	b = int(input())
-	print("Wynik: ", a+b)
-	print("Konietz")
+	print(a+b)
